@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@iamnotgalih**
-- 👀 I’m interested in **FrontEnd Web Development**
+- 👀 I’m interested in **Mobile App Development** *especially flutter*
 - 🌱 I’m currently learning **Javascript** and **Python**
 - 📫 How to reach me galihakbar.ga92@gmail.com
 
