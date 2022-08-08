@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@iamnotgalih**
+- 👋 Hi, I’m **@whoisgalih**
 - 👀 I’m interested in **Mobile App Development** *especially flutter* and *iOS using SwiftUI*
 - 🌱 I’m currently learning **SwiftUI**, **Flutter**, **Go**, **Javascript** and **Python**
 - 📫 How to reach me galihakbar.ga91@gmail.com
