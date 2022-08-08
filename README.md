@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@iamnotgalih**
-- 👀 I’m interested in **Mobile App Development** *especially flutter*
-- 🌱 I’m currently learning **Flutter**, **Javascript** and **Python**
-- 📫 How to reach me galihakbar.ga92@gmail.com
+- 👀 I’m interested in **Mobile App Development** *especially flutter* and *iOS using SwiftUI*
+- 🌱 I’m currently learning **SwiftUI**, **Flutter**, **Go**, **Javascript** and **Python**
+- 📫 How to reach me galihakbar.ga91@gmail.com
 
 <!---
 iamnotgalih/iamnotgalih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
